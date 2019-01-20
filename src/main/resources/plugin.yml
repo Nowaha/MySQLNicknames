@@ -1,0 +1,7 @@
+name: Nicknames
+version: ${project.version}
+main: me.nowaha.nicknames.Main
+api-version: 1.13
+authors: [Nowaha]
+description: Nickname plugin in the cloud.
+website: noahverkaik.com
